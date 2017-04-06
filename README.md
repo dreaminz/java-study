@@ -1,1 +1,1 @@
-This is test for remote git
+remote repository of git
